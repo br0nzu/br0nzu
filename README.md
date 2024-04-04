@@ -27,7 +27,6 @@ My ambition is to become the foremost expert in information security research.
 The 27th Hacking Camp CTF 1st(Team: 어디에도)
 
 The 27th Hacking Camp CTF 1st(Team: 어디에도)
-
 The 27th Hacking Camp CTF 1st(Team: 어디에도)
 </div>
 </details>
