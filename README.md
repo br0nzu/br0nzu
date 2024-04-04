@@ -16,7 +16,7 @@ My ambition is to become the foremost expert in information security research.
 <details>
 <summary>2023</summary>
 <div markdown="1">
-* 지식재산 문제해결학습(IP:PBL) 장려상 
+    - 지식재산 문제해결학습(IP:PBL) 장려상 
 </div>
 </details>
 
@@ -24,7 +24,7 @@ My ambition is to become the foremost expert in information security research.
 <details>
 <summary>2023</summary>
 <div markdown="1">
-* The 27th Hacking Camp CTF 1st(Team: 어디에도)
+    * The 27th Hacking Camp CTF 1st(Team: 어디에도)
 </div>
 </details>
 
