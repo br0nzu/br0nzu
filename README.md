@@ -2,7 +2,9 @@
 ### Hello👋
 ![br0nzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=br0nzu&hide=contribs,prs&theme=buefy)
 
-I'm Lee Dong Ju. I'm interested in pwanble and fuzzing.
+I'm Lee Dong Ju. I usually use the nicknames br0nzu and Dongpago2. 
+
+I'm interested in pwanble and fuzzing.
 
 My ambition is to become the foremost expert in information security research.
 
