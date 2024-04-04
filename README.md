@@ -11,12 +11,9 @@
 - ⚡ Fun fact: ...
 -->
 ### Hello👋
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=br0nzu&hide=contribs,prs&theme=buefy" />
-</div>
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br0nzu&layout=buefy" />
-</div>
+![br0nzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=br0nzu&hide=contribs,prs&theme=buefy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br0nzu&layout=buefy)
 
 
 
