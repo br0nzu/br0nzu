@@ -20,8 +20,10 @@ My ambition is to become the foremost expert in information security research.
 
 
 ### 🚩CTF Results
-#### 2023
+<details> <summary> 2023</summary>
+
 * The 27th Hacking Camp CTF 1st(Team: 어디에도)
+</details>
 
 ### 📞Contact
 * <a href="https://www.discord.com/users/992834301752262656">Discord: Br0nzu</a><br>
