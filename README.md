@@ -12,6 +12,9 @@ My ambition is to become the foremost expert in information security research.
 * 2015 ~ 2018 [Haesong High School](https://haeseong-h.gne.go.kr/haeseong-h/main.do)
 * 2020 ~ [Yeungnam University](https://www.yu.ac.kr/main/index.do)
 
+### 🎓Education
+* 2023 - KITRI WhiteHat School 1st
+
 ### 🏆Awards
 <details> <summary> 2023</summary>
 
