@@ -1,7 +1,7 @@
 ## Lee Dong Ju
 ![br0nzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=br0nzu&hide=contribs,prs&theme=buefy)
 
-I'm Lee Dong Ju. I usually use the nicknames br0nzu and Dongpago2. 
+I'm Lee Dong Ju. I usually use the nicknames br0nzu or Dongpago2. 
 
 I'm interested in pwanble and fuzzing.
 
