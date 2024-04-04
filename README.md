@@ -13,8 +13,11 @@ My ambition is to become the foremost expert in information security research.
 * 2020 ~ [Yeungnam University](https://www.yu.ac.kr/main/index.do)
 
 ### 🏆Awards
+<details> <summary> See more...</summary>
 #### 2023
-* 지식재산 문제해결학습(IP:PBL) 장려상 
+    * 지식재산 문제해결학습(IP:PBL) 장려상 
+</details>
+
 
 ### 🚩CTF Results
 #### 2023
