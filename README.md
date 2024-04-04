@@ -11,5 +11,11 @@
 - ⚡ Fun fact: ...
 -->
 ### Hello👋
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=br0nzu&hide=contribs,prs&theme=buefy" style="float: left;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br0nzu&layout=buefy" style="float: right;" />
+</p>
+
+
 I'm Lee Dong Ju.
-![br0nzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=br0nzu&hide=contribs,prs&theme=buefy)
+
