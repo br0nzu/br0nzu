@@ -14,6 +14,7 @@ My ambition is to become the foremost expert in information security research.
 
 ### 🏆Awards
 <details> <summary> See more...</summary>
+
 #### 2023
     * 지식재산 문제해결학습(IP:PBL) 장려상 
 </details>
