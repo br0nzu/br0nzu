@@ -1,5 +1,5 @@
 ## Lee Dong Ju
-![br0nzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=br0nzu&hide=contribs,prs&theme=buefy)
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFwbTRqMnA2NmlvZ3JkdDZkMWhnem92eThwc3g4YXo1NWtxYnh0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r86PNgw8iI4WA/giphy.gif)
 
 I'm Lee Dong Ju. I usually use the nicknames br0nzu or Dongpago2. 
 
