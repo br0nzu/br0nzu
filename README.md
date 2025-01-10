@@ -16,13 +16,13 @@ My ambition is to become the foremost expert in information security research.
 ### 🎓Education
 * 2023 - KITRI WhiteHat School 1st
 
-## 🚩CTF Results
+### 🚩CTF Results
 - 2024
     - 특별상, AutoHack2024 (Team: 오똑핵)
 - 2023
     - 1st, The 27th Hacking Camp (Team: 어디에도)
 
-## 🏆Awards
+### 🏆Awards
 - 2024
     - 대상, MIDAS GROUP(전공형) (Team: @Xpert)
 - 2023
