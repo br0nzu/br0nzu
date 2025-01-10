@@ -16,18 +16,17 @@ My ambition is to become the foremost expert in information security research.
 ### 🎓Education
 * 2023 - KITRI WhiteHat School 1st
 
-### 🏆Awards
-<details> <summary> 2023</summary>
+## 🚩CTF Results
+- 2024
+    - 특별상, AutoHack2024 (Team: 오똑핵)
+- 2023
+    - 1st, The 27th Hacking Camp (Team: 어디에도)
 
-* 지식재산 문제해결학습(IP:PBL) 장려상 
-</details>
-
-
-### 🚩CTF Results
-<details> <summary> 2023</summary>
-
-* The 27th Hacking Camp CTF 1st(Team: 어디에도)
-</details>
+## 🏆Awards
+- 2024
+    - 대상, MIDAS GROUP(전공형) (Team: @Xpert)
+- 2023
+    - 장려상, 지식재산 문제해결학습(IP:PBL) 
 
 ### 📞Contact
 * <a href="https://www.discord.com/users/992834301752262656">Discord: Br0nzu</a><br>
