@@ -10,11 +10,12 @@ My ambition is to become the foremost expert in information security research.
 ---
 
 ### 🏫School
-* 2015 ~ 2018 [Haesong High School](https://haeseong-h.gne.go.kr/haeseong-h/main.do)
-* 2020 ~ [Yeungnam University](https://www.yu.ac.kr/main/index.do)
+- 2015 ~ 2018 [Haesong High School](https://haeseong-h.gne.go.kr/haeseong-h/main.do)
+- 2020 ~ [Yeungnam University](https://www.yu.ac.kr/main/index.do)
 
 ### 🎓Education
-* 2023 - KITRI WhiteHat School 1st
+- 2023
+    - KITRI WhiteHat School 1st
 
 ### 🚩CTF Results
 - 2024
@@ -29,8 +30,8 @@ My ambition is to become the foremost expert in information security research.
     - 장려상, 지식재산 문제해결학습(IP:PBL) 
 
 ### 📞Contact
-* <a href="https://www.discord.com/users/992834301752262656">Discord: Br0nzu</a><br>
-* <a href="mailto:dongpago2@gmail.com">Mail: dongpago2@gmail.com</a>
+- <a href="https://www.discord.com/users/992834301752262656">Discord: Br0nzu</a><br>
+- <a href="mailto:dongpago2@gmail.com">Mail: dongpago2@gmail.com</a>
 
 ### 👀Blog
 [br0nzu's blog](https://br0nzu.github.io/)
