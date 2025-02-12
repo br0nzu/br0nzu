@@ -29,8 +29,12 @@ My ambition is to become the foremost expert in information security research.
 - 2023
     - 장려상, 지식재산 문제해결학습(IP:PBL) 
 
+### 🏛️Contributions
+- 2025
+    - Security One Forum CTF Author
+
 ### 📞Contact
-- <a href="https://www.discord.com/users/992834301752262656">Discord: Br0nzu</a><br>
+- <a href="https://www.discord.com/users/992834301752262656">Discord: br0nzu</a><br>
 - <a href="mailto:dongpago2@gmail.com">Mail: dongpago2@gmail.com</a>
 
 ### 👀Blog
