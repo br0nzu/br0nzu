@@ -3,9 +3,9 @@
 
 I'm Lee Dong Ju. I usually use the nicknames br0nzu or Dongpago2. 
 
-I'm interested in pwanble and fuzzing.
+I'm interested in Automated Vulnerability Detection.
 
-My ambition is to become the foremost expert in information security research.
+My ambition is to become the foremost expert in Information Security Research.
 
 ---
 
