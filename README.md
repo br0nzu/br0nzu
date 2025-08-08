@@ -10,12 +10,12 @@ My ambition is to become the foremost expert in Information Security Research.
 ---
 
 ### 🏫School
-- 2020 ~ [Yeungnam University](https://www.yu.ac.kr/main/index.do)
-- 2015 ~ 2018 [Haesong High School](https://haeseong-h.gne.go.kr/haeseong-h/main.do)
+- [Yeungnam University](https://www.yu.ac.kr/main/index.do) (2020.3. ~ Present.)
+- [Haesong High School](https://haeseong-h.gne.go.kr/haeseong-h/main.do) (2015.3. ~ 2018.1.)
 
 ### 🎓Education
-- Hunting Master | A Track: Reversing, Fuzzing (2025.06. ~ Present)
-- KITRI WhiteHat School 1st(2023.09. ~ 2024.03.)
+- Hunting Master | A Track: Reversing, Fuzzing (2025.06. ~ Present.)
+- KITRI WhiteHat School 1st (2023.09. ~ 2024.03.)
 
 ### 🚩CTF Results
 - 2024
