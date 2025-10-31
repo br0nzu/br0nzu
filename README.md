@@ -10,11 +10,11 @@ My ambition is to become the foremost expert in Information Security Research.
 ---
 
 ### 🏫School
-- [Yeungnam University](https://www.yu.ac.kr/main/index.do) (2020.3. ~ Present.)
+- [Yeungnam University](https://www.yu.ac.kr/main/index.do) (2020.3. ~ 2026.2.)
 - [Haesong High School](https://haeseong-h.gne.go.kr/haeseong-h/main.do) (2015.3. ~ 2018.1.)
 
 ### 🎓Education
-- Hunting Master A Track: Reversing, Fuzzing (2025.06. ~ Present.)
+- Hunting Master A Track: Reversing, Fuzzing (2025.06. ~ 2025.10.)
 - KITRI WhiteHat School 1st (2023.09. ~ 2024.03.)
 
 ### 🚩CTF Results
@@ -22,6 +22,7 @@ My ambition is to become the foremost expert in Information Security Research.
 - 1st, The 27th Hacking Camp (Team: 어디에도) (2023.8.)
 
 ### 🏆Awards
+- 특별상, 제11회 암호분석경진대회 (2025.9)
 - 우수상, 제12회 IEEE 퀴즈 대회 (2025.5)
 - 대상, MIDAS GROUP(전공형) (Team: @Xpert) (2024.12.)
 - 장려상, 지식재산 문제해결학습(IP:PBL) (2023.4.)
