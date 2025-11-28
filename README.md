@@ -1,4 +1,4 @@
-## Lee Dong Ju
+## Lee DongJu
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFwbTRqMnA2NmlvZ3JkdDZkMWhnem92eThwc3g4YXo1NWtxYnh0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r86PNgw8iI4WA/giphy.gif)
 
 I'm Lee DongJu. I usually use the nicknames br0nzu or Dongpago2. 
